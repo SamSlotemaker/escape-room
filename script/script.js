@@ -5,7 +5,6 @@ let passwordReminder = document.querySelector('.passwordReminder')
 let buttonClose = document.querySelector('.close')
 
 
-
 function reminder() {
     document.body.classList.toggle('toonReminder')
 }
